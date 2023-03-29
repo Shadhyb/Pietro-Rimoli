@@ -9,7 +9,7 @@
 
 <h3> Il mio GitHub </h3>
 <hr>
-<p>In questo profilo troverete principalmente gli esercizi e i progetti completati, sia da solo che in team, durante il corso con <code>EPICODE</code>,oltre ad alcuni progetti personali in fase di sviluppo. </p>
+<p>In questo profilo troverete principalmente gli esercizi e i progetti completati, sia da solo che in team, durante il corso con <code>EPICODE</code>, oltre ad alcuni progetti personali in fase di sviluppo. </p>
 
 
 
