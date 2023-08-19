@@ -1,20 +1,52 @@
-<h1>Pietro Rimoli</h1>
-<p>Junior Front-End Developer</p>
+<h2 align="left">Hi 👋! My name is Pietro Rimoli and I'm a Front-End Developer from  Bologna, Italy</h2>
 
+###
 
-<h3> Su di me </h3>
-<hr>
-<p>Sono un Junior Front-end Developer appena formato grazie al corso Epicode durante il quale ho imparato a programmare utilizzando <ul><li><code>HTML5</code></li> <li><code>CSS</code></li><li><code>Sass</code></li> <li><code>Javascript</code></li> <li><code>Typescript</code></li></ul> e ho approfondito la conoscenza di framework come <ul><li><code>Bootstrap</code></li> <li><code>Angular</code></li></ul> <br> Ho esperienza di un anno come Consulente Informatico, durante il quale ho sviluppato conoscenze base di <strong>Wordpress</strong> e <strong>Google Analytics</strong>. <br> Mi considero attento ai dettagli e curioso di scoprire nuove tecnologie e/o metodi e mi piacerebbe lavorare in un team che stimoli la mia curiosità e mi permetta una crescita professionale e personale.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadhyb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadhyb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Shadhyb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
+###
 
-<h3> Il mio GitHub </h3>
-<hr>
-<p>In questo profilo troverete principalmente gli esercizi e i progetti completati, sia da solo che in team, durante il corso con <code>EPICODE</code>, oltre ad alcuni progetti personali in fase di sviluppo. </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+</div>
 
+###
 
+<br clear="both">
 
-<h3> Contatti </h3>
-<hr>
- <a href="https://www.linkedin.com/in/pietro-rimoli-982b0459/">LinkedIn</a> <br> <a href="mailto:pietro.rimoli89@gmail.com">Email</a>
+<img src="https://raw.githubusercontent.com/Shadhyb/Shadhyb/output/snake.svg" alt="Snake animation" />
 
+###
 
+<br clear="both">
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/pietro-rimoli-982b0459/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="pietro.rimoli89@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shadhyb/count.svg?"  />
+</div>
+
+###
